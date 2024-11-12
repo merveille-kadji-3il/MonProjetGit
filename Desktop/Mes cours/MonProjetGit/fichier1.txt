@@ -1,2 +1,3 @@
 Ecrire un petit texte dans fichier1.
 Modifier le contenu et enregistrer
+Ajouter une ligne pour tester la fonctionnalité
