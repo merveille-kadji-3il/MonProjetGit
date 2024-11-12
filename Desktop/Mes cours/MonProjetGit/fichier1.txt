@@ -1,1 +1,2 @@
-Ecrire un petit texte dans fichier1
+Ecrire un petit texte dans fichier1.
+Modifier le contenu et enregistrer
